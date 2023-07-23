@@ -1,0 +1,4 @@
+Time: 2023-07-23 20:18:26.563068, F_name: hello_world, Args: ((), {}), Result: Hello World, 
+Time: 2023-07-23 20:18:26.563068, F_name: summator, Args: ((2, 2), {}), Result: 4, 
+Time: 2023-07-23 20:18:26.564067, F_name: div, Args: ((6, 2), {}), Result: 3.0, 
+Time: 2023-07-23 20:18:26.565067, F_name: summator, Args: ((4.3,), {'b': 2.2}), Result: 6.5, 
